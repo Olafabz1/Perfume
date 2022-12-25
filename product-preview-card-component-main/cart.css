@@ -1,0 +1,55 @@
+body{
+background-color:hsl(30, 38%, 92%);
+margin-left:150px;
+margin-top:50px;
+
+}
+img{
+ width:230px;
+ border-radius:5px;
+
+}
+h5{
+ color:grey;
+ font-size:10px;
+
+}
+.ingredient{
+ color:grey;
+ font-size:15px;
+}
+.product{
+display: flex;
+margin-left:30%;
+padding-top:80px ;
+}
+.content{
+ border:1px solid white;
+ width: 200px;
+ padding-left:30px;
+ font-size:large;
+ background-color: aliceblue;
+border-radius:5px;
+}
+small{
+ float: right;
+ text-decoration-line: line-through;
+ color:grey;
+ font-size: small;
+}
+b{
+ font-weight:700;
+ font-size:20px;
+ color:hsl(158, 36%, 37%);
+}
+.items{
+ border:1px solid hsl(158, 36%, 37%);
+ text-align: center;
+ height:5%;
+ width:150px;
+ background-color:hsl(158, 36%, 37%);
+ border-radius:5px;
+color:white;
+font-size: small;
+padding-top:8px;
+}
